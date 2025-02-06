@@ -1,0 +1,21 @@
+Copiado de :
+https://gist.github.com/lisakim0/0204d7504d17cefceaf2d37261c1b7d5
+
+Explicado en:
+
+
+Paquetes:
+pip install -U langchain langchain-community
+pip install langchain
+pip install langchain_experimental
+pip install streamlit
+pip install pdfplumber
+pip install semantic-chunkers
+pip install open-text-embeddings
+pip install ollama
+pip install prompt-template
+pip install sentence-transformers
+pip install faiss
+pip install faiss-cpu
+
+
